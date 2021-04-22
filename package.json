@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/PhilippMaxx/fart_backend/issues"
   },
-  "homepage": "https://github.com/PhilippMaxx/fart_backend#readme"
+  "homepage": "https://github.com/PhilippMaxx/fart_backend#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.6"
+  }
 }
